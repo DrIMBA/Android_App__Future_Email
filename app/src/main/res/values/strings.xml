@@ -1,0 +1,21 @@
+<resources>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_save">Save Changes</string>
+    <string name="app_name">Future_Email</string>
+    <string name="email">Email</string>
+    <string name="content">Content</string>
+    <string name ="SendAfter">Send after</string>
+    <string name ="hours">hour(s)</string>
+    <string name = "swt">Switch</string>
+    <string name="button_start">Start/Reset</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="Button_sendNow">Send Now!</string>
+    <string name="TimerText1">Send the email to</string>
+    <string name="TimerTextAfter">After</string>
+    <string name="Seconds">Seconds</string>
+    <string name="button_Ready">Ready</string>
+    <string name="button_Reset">Reset</string>
+    <string name="Subj">Subject</string>
+    <string name="notice">If you reset the timer during countdown, the email will be sent multiple times</string>
+
+</resources>
