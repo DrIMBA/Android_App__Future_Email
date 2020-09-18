@@ -7,12 +7,14 @@ My email and SMTP password were deleted from this project due to the obvious rea
 You may fill your own email address and SMTP password at app\src\main\java\com\example\myapplication\MainActivity.java (line 69)
 
 
+
 ## Installation
 
 Since the email address and SMTP password was deleted, providing an **.apk** will be meaningless. You may import the project to Android Studio (or othre IDEs), fill your email address and SMTP password in, and generate your own **.apk** file. 
 
 The download URL and instructions for Installation can be found in the official site of Android Studio: https://developer.android.com/studio/
 The Javamail library can be found in **app/libs**, but if you would like to install the latest version of javamail, here is the URL: https://javaee.github.io/javamail/Android
+
 
 
 ## How To Use the App
@@ -25,6 +27,7 @@ The Javamail library can be found in **app/libs**, but if you would like to inst
 6. If you want to send the email immediately, click the **SEND NOW!** button. A toast will prompt after you clicked the **SEND NOW!** button. Otherwise, click **READY** to enter the countdown interface.
 7. Initially, the countdown is frozen. Click the "START/RESET" button to start the countdown. 
 8. The reset option is mean to be clicked after the countdown terminates. If you click "START/RESET", the clock will be reset, but multiple emails will be sent. If you would like to cancel the email sending process at any moment, use the **CANCEL** button. It will cancel the countdown and bring you back to the main interface. 
+
 
 
 ## Classes Introduction:
